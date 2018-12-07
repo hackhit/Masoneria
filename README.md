@@ -12,4 +12,4 @@ Hoy 06/12/2018 comienso este proyecto **NO SE PREOCUPEN**, Solo los usuarios com
 * [Logias](#otros-temas)
 * [Inactivos](#inactivos-o-enlaces-expirados)
 * [Licencia](#licencia)
-* [QQHH] (#QQ:.HH:.)
+* [QQHH](#QQHH)
