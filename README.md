@@ -14,4 +14,4 @@ Hoy 06/12/2018 comienso este proyecto **NO SE PREOCUPEN**, Solo los usuarios com
 
 ### OORR
 
-* [Gran Logia de Venezuela] (http://granlogia.org.ve/) -@masoneriavzla
+* [Gran Logia de Venezuela](http://granlogia.org.ve/) - @masoneriavzla
