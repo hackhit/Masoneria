@@ -1,3 +1,3 @@
-[![GitHub Release](https://img.shields.io/github/release/microsoft/git-credential-manager-for-windows.svg?style=flat-square)](https://github.com/Microsoft/Git-Credential-Manager-for-Windows/releases)
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://www.twitter.com/hackhit)
 # Masoneria
 Canal Masonico Venezuela
