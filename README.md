@@ -9,7 +9,8 @@ Hoy 06/12/2018 comienso este proyecto **NO SE PREOCUPEN**, Solo los usuarios com
 
 * [Comunidades](#comunidades)
 * [Canales](#canales)
-* [Logias](#otros-temas)
-* [Inactivos](#inactivos-o-enlaces-expirados)
+* [Logias](#logias)
+* [Regulares](#regulares)
+* [OORR](#OORR)
 * [Licencia](#licencia)
 * [QQHH](#QQHH)
