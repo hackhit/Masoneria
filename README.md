@@ -7,10 +7,11 @@ Hoy 06/12/2018 comienso este proyecto **NO SE PREOCUPEN**, Solo los usuarios com
 
 ## Contenido
 
-* [Comunidades](#comunidades)
-* [Canales](#canales)
+* [OORR](#OORR)
 * [Logias](#logias)
 * [Regulares](#regulares)
-* [OORR](#OORR)
-* [Licencia](#licencia)
 * [QQHH](#QQHH)
+
+### OORR
+
+* [Gran Logia de Venezuela] (http://granlogia.org.ve/) -@masoneriavzla
